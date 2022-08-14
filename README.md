@@ -6,7 +6,7 @@
 - 📫 You can reach me by email: miguel.soto@wooxet.com
 
 ### :hammer_and_wrench: Languages and Tools :
-
+<hr>
 <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain.svg" title="Nestjs"
         **alt="Git" width="25" height="25" />
@@ -29,6 +29,7 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git"
         **alt="Git" width="25" height="25" />
 </div>
+<hr>
  
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=miguelsotobaez&theme=dracula)](https://git.io/streak-stats)
 
