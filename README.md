@@ -16,7 +16,7 @@
         title="JavaScript" alt="JavaScript" width="25" height="25" />&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg" title="MySQL"
         alt="MySQL" width="25" height="25" />&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-plain.svg" title="React"
+    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React"
         alt="React" width="25" height="25" />&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg"
         title="Firebase" alt="Firebase" width="25" height="25" />&nbsp;
@@ -24,9 +24,9 @@
         width="25" height="25" />&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" title="HTML5" alt="HTML"
         width="25" height="25" />&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain.svg"
+    <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg"
         title="AWS" alt="AWS" width="25" height="25" />&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plaink.svg" title="Git"
+    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" title="Git"
         **alt="Git" width="25" height="25" />
 </div>
 <hr>
