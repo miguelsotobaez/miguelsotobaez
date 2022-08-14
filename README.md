@@ -10,23 +10,23 @@
 <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain.svg" title="Nestjs"
         **alt="Git" width="25" height="25" />
-    <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS"
+    <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg" title="NodeJS"
         alt="NodeJS" width="25" height="25" />&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"
+    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg"
         title="JavaScript" alt="JavaScript" width="25" height="25" />&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"
+        <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg" title="MySQL"
         alt="MySQL" width="25" height="25" />&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React"
+    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-plain.svg" title="React"
         alt="React" width="25" height="25" />&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg"
+    <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg"
         title="Firebase" alt="Firebase" width="25" height="25" />&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="CSS"
+    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" title="CSS3" alt="CSS"
         width="25" height="25" />&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML"
+    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" title="HTML5" alt="HTML"
         width="25" height="25" />&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg"
+    <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain.svg"
         title="AWS" alt="AWS" width="25" height="25" />&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git"
+    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plaink.svg" title="Git"
         **alt="Git" width="25" height="25" />
 </div>
 <hr>
