@@ -8,7 +8,7 @@
 ### :hammer_and_wrench: Languages and Tools :
 
 <div>
-    <img src="https://github.com/devicons/devicon/blob/master/nestjs/nestjs/nestjs-plain.svg" title="Nestjs"
+    <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain.svg" title="Nestjs"
         **alt="Git" width="25" height="25" />
     <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS"
         alt="NodeJS" width="25" height="25" />&nbsp;
