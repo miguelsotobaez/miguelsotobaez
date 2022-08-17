@@ -14,8 +14,8 @@
         alt="NodeJS" width="25" height="25" />&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg"
         title="JavaScript" alt="JavaScript" width="25" height="25" />&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg" title="MySQL"
-        alt="MySQL" width="25" height="25" />&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain.svg" title="PostgreSQL"
+        alt="PostgreSQL" width="25" height="25" />&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React"
         alt="React" width="25" height="25" />&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg"
