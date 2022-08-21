@@ -31,7 +31,7 @@
 </div>
 <hr>
  
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=miguelsotobaez&hide_border=true&background=1C1E26&border=1C1E26&stroke=FAB795&ring=E95678&fire=E95678&currStreakNum=59E1E3&sideNums=59E1E3&currStreakLabel=23BD87&sideLabels=23BD87&dates=FAB795)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=miguelsotobaez&theme=horizon)](https://git.io/streak-stats)
 
 
 
