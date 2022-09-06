@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- ⚡ I’m working as a Software Engineer at @Xintec and contributing to @wooxet as CTO in my free time.
+- ⚡ I’m fulltime working as a Software Engineer at <a href="https://xintec.cl/">Xintec</a> and contributing to <a href="https://wooxet.com/">Wooxet</a> as CTO in my free time.
 - 📫 You can reach me by email: miguel.soto@wooxet.com
 
 ### :hammer_and_wrench: Languages and Tools :
