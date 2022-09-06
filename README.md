@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
-- 💬 Ask me about ...
-- ⚡ In my free time, I solve problems on Wooxet and read tech articles.
+- ⚡ I’m working as a Software Engineer at @Xintec and contributing to @wooxet as CTO in my free time.
 - 📫 You can reach me by email: miguel.soto@wooxet.com
 
 ### :hammer_and_wrench: Languages and Tools :
