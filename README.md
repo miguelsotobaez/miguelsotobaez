@@ -14,7 +14,7 @@
         title="JavaScript" alt="JavaScript" width="25" height="25" />&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/supabase/supabase-original.svg" title="Supabase"
         **alt="Supabase" width="25" height="25" />
-    <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL"
+    <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain.svg" title="PostgreSQL"
         alt="PostgreSQL" width="25" height="25" />
      <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg" title="Redis"
         **alt="Redis" width="25" height="25" />
