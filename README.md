@@ -22,8 +22,7 @@
     
 </div>
 <hr>
- 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=miguelsotobaez&theme=horizon)](https://git.io/streak-stats)
+
 
 
 
