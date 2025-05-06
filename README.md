@@ -3,7 +3,7 @@
 - ⚡ I’m full time working as a Software Engineer
 - 📫 You can reach me by email: miguelsotobaez@gmail.com
 - 🎮 My Indie Game: https://neogamelab.com/
-- ⚡ My ELO System from Jedi Knight: Jedi Academy Games: [https://skirata-web.vercel.app](https://skirata.misoba.dev)
+- ⚡ My ELO System from Jedi Knight: Jedi Academy Games: https://skirata.misoba.dev
 
 ### :hammer_and_wrench: Languages and Tools :
 
