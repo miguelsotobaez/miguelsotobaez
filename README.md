@@ -10,6 +10,10 @@
 <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" title="Go"
         **alt="Go" width="25" height="25" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" title="Dart"
+        **alt="Dart" width="25" height="25" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/astro/astro-original.svg" title="Astro"
+        **alt="Astro" width="25" height="25" />
     <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter"
         **alt="Flutter" width="25" height="25" />
     <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-original.svg" title="Nestjs"
