@@ -8,24 +8,24 @@
 ### :hammer_and_wrench: Languages and Tools :
 
 <div>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" title="Go"
-        **alt="Go" width="25" height="25" />
-    <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" title="Dart"
-        **alt="Dart" width="25" height="25" />
-    <img src="https://github.com/devicons/devicon/blob/master/icons/astro/astro-original.svg" title="Astro"
-        **alt="Astro" width="25" height="25" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" title="Go"
+        **alt="Go" width="40" height="40" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-plain-wordmark.svg" title="Dart"
+        **alt="Dart" width="40" height="40" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/astro/astro-original-wordmark.svg" title="Astro"
+        **alt="Astro" width="40" height="40" />
     <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter"
-        **alt="Flutter" width="25" height="25" />
-    <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-original.svg" title="Nestjs"
-        **alt="Git" width="25" height="25" />
-    <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NodeJS"
-        alt="NodeJS" width="25" height="25" />
+        **alt="Flutter" width="40" height="40" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-original-wordmark.svg" title="Nestjs"
+        **alt="Nestjs" width="40" height="40" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain-wordmark.svg" title="NodeJS"
+        alt="NodeJS" width="40" height="40" />
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"
-        title="JavaScript" alt="JavaScript" width="25" height="25" />
+        title="JavaScript" alt="JavaScript" width="40" height="40" />
     <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain.svg" title="PostgreSQL"
-        alt="PostgreSQL" width="25" height="25" />
-    <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg" title="Redis"
-        **alt="Redis" width="25" height="25" />
+        alt="PostgreSQL" width="40" height="40" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original-wordmark.svg" title="Redis"
+        **alt="Redis" width="40" height="40" />
     
 </div>
 <hr>
