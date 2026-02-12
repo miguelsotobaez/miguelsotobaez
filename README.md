@@ -4,7 +4,7 @@
 - 📫 You can reach me by email: miguel.soto@neogamelab.com
 - 🎮 My Emulation Frontend: https://neostation.dev/
 
-### :hammer_and_wrench: Languages and Tools :
+### Languages and Tools :
 
 <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" title="Go"
