@@ -6,6 +6,7 @@
 
 ### Metrics
 [![GitHub Streak](https://streak-stats.demolab.com/?user=miguelsotobaez&theme=horizon)](https://git.io/streak-stats)
+
 ![Metrics](/github-metrics.svg)
 
 ### Languages and Tools :
