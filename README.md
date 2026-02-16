@@ -4,6 +4,9 @@
 - 📫 You can reach me by email: miguel.soto@neogamelab.com
 - 🎮 My Emulation Frontend: https://neostation.dev/
 
+### Metrics
+![Metrics](/github-metrics.svg)
+
 ### Languages and Tools :
 
 <div>
