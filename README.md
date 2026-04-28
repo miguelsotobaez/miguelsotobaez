@@ -2,7 +2,7 @@
 
 - ⚡ I’m full time working as a Software Engineer
 - 📫 You can reach me by email: miguel.soto@neogamelab.com
-- 🎮 My Emulation Frontend: https://neostation.dev/
+- 🎮 My Work on NeoStation: https://neostation.dev/
 
 ### Metrics
 [![GitHub Streak](https://streak-stats.demolab.com/?user=miguelsotobaez&theme=horizon)](https://git.io/streak-stats)
